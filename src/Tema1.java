@@ -9,6 +9,8 @@ public class Tema1 {
 		System.out.println("Am modificat proiectul");
 		System.out.println("Gata!");
 		
+		// pana aici a fost primul test 
+		
 		}
 
 }
