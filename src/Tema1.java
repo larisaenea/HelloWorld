@@ -10,6 +10,7 @@ public class Tema1 {
 		System.out.println("Gata!");
 		
 		// pana aici a fost primul test 
+		System.out.println("Am revenit");
 		
 		}
 
